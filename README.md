@@ -1,2 +1,2 @@
 # aula_javascript
-Introdução ao JavaScript DIO
+Programação para internet com JavaScript pela Digital Innovation One
